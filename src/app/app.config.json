@@ -1,0 +1,13 @@
+{
+  "appname": "demo to viewsource",
+  "ocscope": "FullAccess",
+  "clientid": "7E2C581C-039C-4612-BA64-08141CDFD542",
+  "buyerid": "teddy002",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
